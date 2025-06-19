@@ -1,0 +1,15 @@
+{
+  "name": "Server",
+  "packageManager": "yarn@4.9.2",
+  "dependencies": {
+    "@apollo/server": "^4.12.2",
+    "@types/axios": "^0.14.4",
+    "axios": "^1.10.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-playground-middleware-express": "^1.7.23",
+    "mongoose": "^8.16.0"
+  }
+}
