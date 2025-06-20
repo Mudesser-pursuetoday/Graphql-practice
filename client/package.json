@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "@apollo/client": "^3.13.8",
+    "@tailwindcss/vite": "^4.1.10",
     "graphql": "^16.11.0",
     "next": "15.3.4",
+    "papaparse": "^5.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -20,6 +22,6 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4.1.10"
   }
 }
